@@ -20,11 +20,11 @@ title                    : "Lifes Like Code"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JinJungs"
-description              : "배움의 정리, 기록용 블로그입니다."
+description              : "EJ's Engineering Notes"
 url                      : "https://jinjungs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jinjungs/jinjungs.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/keyboard-lego.jpg"
+teaser                   : "/assets/images/blog_social_media_image.001.jpeg"
 logo                     : #"/assets/images/keyboard-lego.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
@@ -76,7 +76,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/keyboard-lego.jpg"
+og_image                 : "/assets/images/blog_social_media_image.001.jpeg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
